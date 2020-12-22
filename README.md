@@ -1,5 +1,5 @@
 # Apache-Log-File-Analyser
-Generates an analysis file for apache log files.
+Generates a file (apache_log_data.txt) for apache log file data analysis.
 
 Attributes written to the analysis file:
 - A list of bytes output values and a count of their appearances
